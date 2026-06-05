@@ -3,7 +3,7 @@
 Personal portfolio website showcasing my projects, experience, and skills 
 in data analytics, software development, and business intelligence.
 
-🌐 **Live site:** https://bornitac.vercel.app
+🌐 **Live site:** 
 
 ## Built With
 - HTML5, CSS3, JavaScript
