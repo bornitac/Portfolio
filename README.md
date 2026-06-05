@@ -3,7 +3,7 @@
 Personal portfolio website showcasing my projects, experience, and skills 
 in data analytics, software development, and business intelligence.
 
-🌐 **Live site:** 
+🌐 **Live site:** https://bornitachowdhury.vercel.app
 
 ## Built With
 - HTML5, CSS3, JavaScript
