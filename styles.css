@@ -128,16 +128,16 @@ section {
 
 h1 {
   font-family: var(--font-display);
-  font-size: clamp(4rem, 8vw, 7.2rem);
+  font-size: clamp(3.5rem, 7vw, 6.2rem);
   color: var(--cream);
-  line-height: 0.92;
+  line-height: 0.95;
   letter-spacing: -0.04em;
   margin-bottom: 1.7rem;
 }
 
 .name-accent {
-  color: transparent;
-  -webkit-text-stroke: 1px rgba(247, 241, 232, 0.55);
+  color: var(--cream);
+  -webkit-text-stroke: 0;
 }
 
 .home-desc,
